@@ -1,3 +1,6 @@
 {
-	"cSpell.words": ["pygame"]
+	"cSpell.words": [
+		"blit",
+		"pygame"
+	]
 }
