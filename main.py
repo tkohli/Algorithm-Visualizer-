@@ -125,7 +125,7 @@ def main():
     ascending = True
     clock = pygame.time.Clock()
 
-    n = 50
+    n = 20
     min_val = 0
     max_val = 100
 
